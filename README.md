@@ -1,5 +1,5 @@
 <h1 align="center"> Hi, I'm Bushra Shahzad</h1>
-<h3 align="center">AI Automation Developer | n8n Specialist | AI Agents | Full Stack Developer</h3>
+<h3 align="center">AI Developer | n8n Specialist | AI Agents | Full Stack Developer</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
@@ -12,9 +12,9 @@
 
 ### About Me
 
-Hi, I'm an **AI Automation & Full Stack Developer** specializing in building smart workflows and AI-powered systems using **n8n**. I build AI agents, LLM-powered chatbots, RAG systems, CRM automations, and document processing workflows.
-
-I also develop complete web applications from backend APIs to frontend interfaces so your automation has a fully functional product around it. I integrate APIs, databases, and third-party platforms using Python, Flask, PHP, ReactJS, and MySQL to create reliable, scalable solutions that save time and drive results.
+I'm a Software Engineer passionate about AI, Data Engineering, and building intelligent, data-driven solutions.
+ 
+I am an AI Developer working on AI automation, n8n workflows, Antigravity AI agent development, AI agents, Large Language Models (LLMs), and Retrieval-Augmented Generation (RAG) and intelligent systems that streamline processes and deliver real-world impact.
 
 ---
 
