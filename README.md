@@ -70,17 +70,9 @@ I also develop complete web applications from backend APIs to frontend interface
 
 ### Featured Projects
 
-
-### Testimonials / Client Results
-
-> *"Add a short client quote here once available — e.g. 'Bushra automated our entire lead pipeline, saving us 10+ hours a week.'"*
-
-| Result | Impact |
-|---|---|
-| ⏱️ Time saved | e.g. "10+ hrs/week automated" |
-| 📈 Process improved | e.g. "Lead response time cut by 70%" |
-| 🤝 Client satisfaction | e.g. "Repeat client / long-term contract" |
-
+- **TalentFlow AI (AI Resume Analyzer):**
+  [github.com/bushrashahzad/AI-Resume-Analyzer](https://github.com/bushrashahzad/AI-Resume-Analyzer)
+  
 ---
 
 ### 🎯 Current Focus
