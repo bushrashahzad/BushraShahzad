@@ -71,7 +71,11 @@ I am an AI Developer working on AI automation, n8n workflows, Antigravity AI age
 ### Featured Projects
 
 - **TalentFlow AI (AI Resume Analyzer):**
-  [github.com/bushrashahzad/AI-Resume-Analyzer](https://github.com/bushrashahzad/AI-Resume-Analyzer)
+[github.com/bushrashahzad/AI-Resume-Analyzer](https://github.com/bushrashahzad/AI-Resume-Analyzer)
+
+- **DiaCare using Generative AI Large Language Model:**
+[linkedin.com/feed/update/urn:li:activity:7359542969823064064/](https://www.linkedin.com/feed/update/urn:li:activity:7359542969823064064/)
+  
   
 ---
 
