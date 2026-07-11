@@ -1,5 +1,5 @@
 <h1 align="center"> Hi, I'm Bushra Shahzad</h1>
-<h3 align="center">AI Developer | n8n Specialist | AI Agents | Full Stack Developer</h3>
+<h3 align="center">AI Developer | AI Automation Specialist | AI Agents | Full Stack Developer</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
