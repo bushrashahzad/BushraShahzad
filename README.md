@@ -95,5 +95,3 @@ I am an AI Developer working on AI automation, n8n workflows, Antigravity AI age
   <a href="#"><img src="https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/-EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-
-<p align="center"><b>Thanks for visiting! Let's automate something great together. ⭐</b></p>
