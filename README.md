@@ -75,8 +75,9 @@ I am an AI Developer working on AI automation, n8n workflows, Antigravity AI age
 
 - **DiaCare using Generative AI Large Language Model:**
 [linkedin.com/feed/update/urn:li:activity:7359542969823064064/](https://www.linkedin.com/feed/update/urn:li:activity:7359542969823064064/)
-  
-  
+
+- **E-wallet web app:**
+[https://github.com/bushrashahzad/ewallet.github.io/tree/ewallet.github.io.git/main](https://github.com/bushrashahzad/ewallet.github.io/tree/ewallet.github.io.git/main)
 ---
 
 ### 🎯 Current Focus
